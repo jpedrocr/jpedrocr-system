@@ -72,9 +72,13 @@ When planning tasks, assign them to the correct "Team" concept:
 - **Git:** `jpedrocr-os` and `jpedrocr-lab` are independent repositories. Always verify which repo you are in.
 - **Config:** Never hardcode secrets. Read from config files or environment variables.
 - **GitHub Org:** `https://github.com/jpedrocr-projects` is the base for all project links.
-- **Language:**
-  - **System/Management (`os`):** Portuguese (PT-PT).
-  - **Code/Tech (`lab`):** English (standard engineering practice), unless documenting specifically for PT context.
+- **Language Protocol:**
+  - **Files & Folders:** MUST be in **English** (e.g., `01_MANAGEMENT`, `Project 1.1: Routine Maintenance`).
+  - **Code:** MUST be in **English** (variables, comments, technical documentation).
+  - **Content & Context:**
+    - Project details, sophisticated texts, and strategic documents: **Portuguese (PT-PT)**.
+    - Personal texts and texts about the user: **Portuguese (PT-PT)**.
+    - General descriptions: **Portuguese (PT-PT)**.
 
 ## 6. Execution Loop
 
